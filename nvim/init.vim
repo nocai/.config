@@ -33,9 +33,11 @@ noremap <C-j> <C-e>
 
 noremap u i
 noremap U I
+noremap <C-u> <C-i>
 
 noremap l u
 noremap L U
+noremap <C-l> <C-u>
 
 " Resize splits with arrow keys
 noremap <silent><up> :res +5<CR>
