@@ -1,1 +1,29 @@
+reporting: "off"
 startuppopupversion: 1
+gui:
+    theme:
+      selectedLineBgColor:
+        - reverse
+      selectedRangeBgColor:
+        - reverse
+keybinding:
+    universal:
+        prevItem-alt: 'e'
+        nextItem-alt: 'n'
+        prevBlock-alt: 'h'
+        nextBlock-alt: 'i'
+        nextMatch: 'k'
+        prevMatch: 'K'
+        new: 'k'
+        edit: 'j'
+        scrollUpMain-alt1: 'E'
+        scrollDownMain-alt1: 'N'
+        scrollUpMain-alt2: '<c-l>'
+    files:
+        ignoreFile: 'u'
+    commits:
+        moveDownCommit: '<c-n>'
+        moveUpCommit: '<c-e>'
+    branches:
+        viewGitFlowOptions: 'u'
+        setUpstream: 'l'
