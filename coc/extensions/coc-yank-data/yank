@@ -6,3 +6,11 @@ cddd9b39c057da825e311e2c8d99fb8f|file:///home/liujun/gw/src/advert/src/dzh_supe/
 		log.
 3e0f32fbb5251f191671a4d1296ab0f0|file:///home/liujun/gw/src/advert/src/dzh_supe/main.go|48|19|V|go
 			fmt.Sprintf("tsra")
+c8267a49bbb64d8b885a41608785f1e1|file:///home/liujun/.config/.gitignore|2|15|v|
+	Avatars/avatar_origami_cat.png
+0d23d9321fc530ea2b69e171e208bdc9|file:///home/liujun/.config/.gitignore|3|1|V|
+	google-chrome/Avatars/avatar_origami_cat.png
+	Kvantum/kvantum.kvconfig
+	google-chrome/BrowserMetrics/BrowserMetrics-5F5A246D-44B.pma
+98b8f8a848ffc88019f4be2c80c2e01e|file:///home/liujun/.config/.gitignore|4|1|V|
+	google-chrome/Local State

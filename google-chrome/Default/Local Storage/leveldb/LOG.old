@@ -1,6 +1,0 @@
-2020/09/10-18:52:13.602 4b5 Reusing MANIFEST /home/liujun/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/09/10-18:52:13.602 4b5 Recovering log #26
-2020/09/10-18:52:13.602 4b5 Reusing old log /home/liujun/.config/google-chrome/Default/Local Storage/leveldb/000026.log 
-2020/09/10-20:43:44.487 14c2 Level-0 table #31: started
-2020/09/10-20:43:44.490 14c2 Level-0 table #31: 16325 bytes OK
-2020/09/10-20:43:44.494 14c2 Delete type=0 #26

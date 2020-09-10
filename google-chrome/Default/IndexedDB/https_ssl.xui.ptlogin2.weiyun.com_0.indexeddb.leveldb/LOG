@@ -1,5 +1,0 @@
-2020/09/10-17:14:07.889 6ba Reusing MANIFEST /home/liujun/.config/google-chrome/Default/IndexedDB/https_ssl.xui.ptlogin2.weiyun.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/10-17:14:22.424 70c Level-0 table #5: started
-2020/09/10-17:14:22.433 70c Level-0 table #5: 3970 bytes OK
-2020/09/10-17:14:22.438 70c Delete type=0 #3
-2020/09/10-17:14:22.438 70c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

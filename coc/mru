@@ -1,3 +1,4 @@
+/home/liujun/.config/.gitignore
 /home/liujun/.config/nvim/init.vim
 /home/liujun/.config/nvim/plug.vim
 /home/liujun/.dotfiles/.tmux.conf
