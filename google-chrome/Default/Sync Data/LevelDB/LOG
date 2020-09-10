@@ -1,0 +1,9 @@
+2020/09/10-21:04:46.091 46e Reusing MANIFEST /home/liujun/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/09/10-21:04:46.091 46e Recovering log #4
+2020/09/10-21:04:46.092 46e Reusing old log /home/liujun/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2020/09/10-21:18:32.645 6a1 Level-0 table #8: started
+2020/09/10-21:18:32.648 6a1 Level-0 table #8: 105623 bytes OK
+2020/09/10-21:18:32.651 6a1 Delete type=0 #4
+2020/09/10-22:24:43.991 6a1 Level-0 table #10: started
+2020/09/10-22:24:43.997 6a1 Level-0 table #10: 96379 bytes OK
+2020/09/10-22:24:44.000 6a1 Delete type=0 #7

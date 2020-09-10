@@ -1,0 +1,5 @@
+2020/09/10-22:26:47.662 4372 Reusing MANIFEST /home/liujun/.config/google-chrome/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/10-22:27:01.984 4521 Level-0 table #5: started
+2020/09/10-22:27:01.988 4521 Level-0 table #5: 1986 bytes OK
+2020/09/10-22:27:01.993 4521 Delete type=0 #3
+2020/09/10-22:27:01.993 4521 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

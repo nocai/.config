@@ -1,0 +1,21 @@
+2020/09/10-21:04:46.076 46c Reusing MANIFEST /home/liujun/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/10-21:04:46.077 46c Recovering log #30
+2020/09/10-21:04:46.077 46c Reusing old log /home/liujun/.config/google-chrome/Default/Local Storage/leveldb/000030.log 
+2020/09/10-21:44:51.700 3cdc Level-0 table #34: started
+2020/09/10-21:44:51.704 3cdc Level-0 table #34: 15598 bytes OK
+2020/09/10-21:44:51.707 3cdc Delete type=0 #30
+2020/09/10-22:20:37.299 3cdc Level-0 table #36: started
+2020/09/10-22:20:37.303 3cdc Level-0 table #36: 85841 bytes OK
+2020/09/10-22:20:37.306 3cdc Delete type=0 #33
+2020/09/10-22:20:38.341 3cdc Level-0 table #38: started
+2020/09/10-22:20:38.347 3cdc Level-0 table #38: 83213 bytes OK
+2020/09/10-22:20:38.351 3cdc Delete type=0 #35
+2020/09/10-22:20:38.351 3cdc Compacting 4@0 + 1@1 files
+2020/09/10-22:20:38.369 3cdc Generated table #39@0: 288 keys, 318414 bytes
+2020/09/10-22:20:38.369 3cdc Compacted 4@0 + 1@1 files => 318414 bytes
+2020/09/10-22:20:38.372 3cdc compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/10-22:20:38.373 3cdc Delete type=2 #38
+2020/09/10-22:20:38.373 3cdc Delete type=2 #36
+2020/09/10-22:20:38.373 3cdc Delete type=2 #34
+2020/09/10-22:20:38.373 3cdc Delete type=2 #31
+2020/09/10-22:20:38.373 3cdc Delete type=2 #28

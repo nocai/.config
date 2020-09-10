@@ -1,0 +1,23 @@
+[Groups/0]
+# Group Name
+Name="Group 2"
+# Layout
+Default Layout=us-colemak
+# Default Input Method
+DefaultIM=wbpy
+
+[Groups/0/Items/0]
+# Name
+Name=keyboard-us-colemak
+# Layout
+Layout=
+
+[Groups/0/Items/1]
+# Name
+Name=wbpy
+# Layout
+Layout=us
+
+[GroupOrder]
+0="Group 2"
+

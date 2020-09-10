@@ -1,0 +1,5 @@
+2020/09/10-17:25:30.713 a3d Reusing MANIFEST /home/liujun/.config/google-chrome/Default/IndexedDB/https_www.pianshen.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/10-17:46:00.454 70c Level-0 table #5: started
+2020/09/10-17:46:00.457 70c Level-0 table #5: 1386 bytes OK
+2020/09/10-17:46:00.461 70c Delete type=0 #3
+2020/09/10-17:46:00.461 70c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

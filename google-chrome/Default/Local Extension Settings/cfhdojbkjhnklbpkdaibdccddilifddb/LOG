@@ -1,0 +1,29 @@
+2020/09/10-21:04:46.459 498 Reusing MANIFEST /home/liujun/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/09/10-21:04:46.460 498 Recovering log #42
+2020/09/10-21:04:46.460 498 Reusing old log /home/liujun/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000042.log 
+2020/09/10-21:05:58.089 6a1 Level-0 table #46: started
+2020/09/10-21:05:58.125 6a1 Level-0 table #46: 5312619 bytes OK
+2020/09/10-21:05:58.128 6a1 Delete type=0 #42
+2020/09/10-21:06:04.148 6a1 Level-0 table #48: started
+2020/09/10-21:06:04.223 6a1 Level-0 table #48: 5312723 bytes OK
+2020/09/10-21:06:04.227 6a1 Delete type=0 #45
+2020/09/10-21:06:04.228 6a1 Compacting 4@0 + 2@1 files
+2020/09/10-21:06:04.288 6a1 Generated table #49@0: 1 keys, 5312479 bytes
+2020/09/10-21:06:04.292 6a1 Generated table #50@0: 4 keys, 470 bytes
+2020/09/10-21:06:04.292 6a1 Compacted 4@0 + 2@1 files => 5312949 bytes
+2020/09/10-21:06:04.295 6a1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/09/10-21:06:04.295 6a1 Delete type=2 #38
+2020/09/10-21:06:04.295 6a1 Delete type=2 #48
+2020/09/10-21:06:04.295 6a1 Delete type=2 #41
+2020/09/10-21:06:04.295 6a1 Delete type=2 #46
+2020/09/10-21:06:04.295 6a1 Delete type=2 #39
+2020/09/10-21:06:04.295 6a1 Delete type=2 #43
+2020/09/10-22:05:58.087 6a1 Level-0 table #52: started
+2020/09/10-22:05:58.123 6a1 Level-0 table #52: 5312538 bytes OK
+2020/09/10-22:05:58.126 6a1 Delete type=0 #47
+2020/09/10-22:05:58.967 6a1 Level-0 table #54: started
+2020/09/10-22:05:59.019 6a1 Level-0 table #54: 5312723 bytes OK
+2020/09/10-22:05:59.022 6a1 Delete type=0 #51
+2020/09/10-22:20:28.390 6a1 Level-0 table #56: started
+2020/09/10-22:20:28.437 6a1 Level-0 table #56: 5312673 bytes OK
+2020/09/10-22:20:28.441 6a1 Delete type=0 #53
