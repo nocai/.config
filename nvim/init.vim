@@ -53,6 +53,14 @@ noremap R :source $MYVIMRC<CR>
 set clipboard=unnamed
 " set clipboard^=unnamed,unnamedplus
 
+nmap <silent><ESC> :nohlsearch<CR>
+
+" 插件对python的依赖配置
+let g:python2_host_skip_check=1
+let g:python2_host_prog = '/usr/bin/python'
+let g:python3_host_skip_check=1
+let g:python3_host_prog = '/usr/bin/python3'
+
 if filereadable(expand("~/.config/nvim/basic.vim"))
 	source ~/.config/nvim/basic.vim
 endif
@@ -63,12 +71,11 @@ call plug#begin('~/.vim/plugged')
 	endif
 call plug#end()
 
-"syntax enable
-
-set background=dark
+" set background=dark
 " colorscheme gruvbox8
-colorscheme gruvbox
+" colorscheme gruvbox
 " colorscheme onedark
+colorscheme sonokai
 "
 " 背景透明
 " highlight Normal guibg=NONE ctermbg=None
