@@ -57,13 +57,13 @@ let g:python2_host_prog = '/usr/bin/python'
 let g:python3_host_skip_check=1
 let g:python3_host_prog = '/usr/bin/python3'
 
-if filereadable(expand("~/.dotfiles/.vim/basic.vim"))
-	source ~/.dotfiles/.vim/basic.vim
+if filereadable(expand("~/.config/nvim/basic.vim"))
+	source ~/.config/nvim/basic.vim
 endif
 
 call plug#begin('~/.vim/plugged')
-	if filereadable(expand("~/.dotfiles/.vim/plug.vim"))
-	  source ~/.dotfiles/.vim/plug.vim
+	if filereadable(expand("~/.config/nvim/plug.vim"))
+	  source ~/.config/nvim/plug.vim
 	endif
 call plug#end()
 
