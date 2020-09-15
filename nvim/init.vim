@@ -49,25 +49,30 @@ noremap <C-h> ^
 noremap <C-i> $
 noremap R :source $MYVIMRC<CR>
 
-set clipboard=unnamed
+nmap <silent><ESC> :nohlsearch<CR>
 
-if filereadable(expand("~/.config/nvim/basic.vim"))
-	source ~/.config/nvim/basic.vim
+" 插件对python的依赖配置
+let g:python2_host_skip_check=1
+let g:python2_host_prog = '/usr/bin/python'
+let g:python3_host_skip_check=1
+let g:python3_host_prog = '/usr/bin/python3'
+
+if filereadable(expand("~/.dotfiles/.vim/basic.vim"))
+	source ~/.dotfiles/.vim/basic.vim
 endif
 
 call plug#begin('~/.vim/plugged')
-	if filereadable(expand("~/.config/nvim/plug.vim"))
-		source ~/.config/nvim/plug.vim
+	if filereadable(expand("~/.dotfiles/.vim/plug.vim"))
+	  source ~/.dotfiles/.vim/plug.vim
 	endif
 call plug#end()
 
-syntax enable
-
 set background=dark
-" colorscheme gruvbox8
-colorscheme gruvbox
+colorscheme gruvbox8
+" colorscheme gruvbox
 " colorscheme onedark
+" colorscheme sonokai
 "
 " 背景透明
-" highlight Normal guibg=NONE ctermbg=None
+highlight Normal guibg=NONE ctermbg=None
 
