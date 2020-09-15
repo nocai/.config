@@ -47,9 +47,11 @@ noremap <silent><right> :vertical resize+5<CR>
 
 noremap <C-h> ^
 noremap <C-i> $
+noremap Y "+y
 noremap R :source $MYVIMRC<CR>
 
 set clipboard=unnamed
+" set clipboard^=unnamed,unnamedplus
 
 if filereadable(expand("~/.config/nvim/basic.vim"))
 	source ~/.config/nvim/basic.vim
@@ -57,11 +59,11 @@ endif
 
 call plug#begin('~/.vim/plugged')
 	if filereadable(expand("~/.config/nvim/plug.vim"))
-		source ~/.config/nvim/plug.vim
+		 source ~/.config/nvim/plug.vim
 	endif
 call plug#end()
 
-syntax enable
+"syntax enable
 
 set background=dark
 " colorscheme gruvbox8
